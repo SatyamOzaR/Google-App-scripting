@@ -24,7 +24,7 @@ function doGet(e){
     {
       val = e.parameter[headers[i]]; 
     }
-
+    
     // append data to the last row
     cell.offset(lastRow, col).setValue(val);
     col++;
