@@ -1,7 +1,6 @@
 # Google-App-scripting
 Here are steps to create google-app for updating Google Sheets, also send Email using python script,
 
-
 Step:1- open a target google sheets in any browser 
 
 Step:2- Navigate to 'Tools' section and then to 'script-editor'
